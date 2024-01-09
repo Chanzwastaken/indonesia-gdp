@@ -4,6 +4,7 @@
 The objective of this project is to analyze and present data related to the Gross Domestic Product (GDP) of Indonesia at the provincial level. The project aims to provide insights into the distribution of GDP across provinces and identify the top provinces with the highest GDP in billion Indonesian Rupiah (IDR).
 
 This project is part of Data Engineering Challenge, DataSeriesFair4.0 by Dibimbing.id
+here is the pdf https://drive.google.com/file/d/1bfAlt4rdr5laB8Gil2oOc51rlOzmmsl3/view?usp=drive_link
 
 checkout my presentation slide here: https://www.canva.com/design/DAF5QIzle4A/8Ugb3AoUaq2_6_mdjaBKyw/view?utm_content=DAF5QIzle4A&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
